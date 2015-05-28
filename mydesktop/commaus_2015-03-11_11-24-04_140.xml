@@ -1,0 +1,302 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-11-11:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-11-10:33" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7646276</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">650000</price>
+<priceView>$699,000 negotiable</priceView>
+
+
+
+<address display="yes">
+<streetNumber>6</streetNumber>
+<street>Stringybark Drive</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[STUNNING FAMILY HOME - MUST INSPECT!]]></headline>
+<description><![CDATA[Situated in a sought after location of crestwood heights estate, this near new and immaculately presented 4 bedroom plus study home with a pool is situated on a quiet cul-de-sac overlooking a park and the sought after north facing aspect catches the cooling breezes. Motivated vendor will look at all offers. Don't miss out!
+The impressive property features:
+large master bedroom overlooking the pool, designer ensuite and walk in robe
+further 3 generous size bedrooms with built in robes
+office/study or bedroom 5
+3 separate formal lounge/dining, media room & family lounge
+main bathroom with spa bath and separate toilet
+designer kitchen with stone benches, skylight, stainless steel appliances and good pantry space
+media room with built in surround sound wiring
+massive alfresco area with ceiling fan overlooking the sparkling pool
+fully ducted air conditioning system and ceiling insulated
+burglar proof Crimsafe security screens allows open doors/windows 24/7
+remote control home security alarm system
+tinted glass windows and doors throughout to keep the home cool.
+water featured pool can be heated by an economic reverse cycle system 
+electricity solar panel 5KW installed (2014)
+internal access remote double lockup garage
+tastefully landscaped for low maintenance and rain water tank installed
+good side access parking for trailer, jet ski, motorbike, etc.
+large shed/workshop with 3 phase power
+approx. 6 years young
+huge 672m2 allotment
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, solar panels</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">672</area>
+</landDetails>
+<inspectionTimes>
+<inspection>14-Mar-2015 11:00AM to 11:30AM</inspection>
+<inspection>15-Mar-2015 12:00PM to 12:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604904-16558-001_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="a" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605063-14177-010_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="b" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604926-16614-002_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="c" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604990-16782-006_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="d" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604943-16718-003_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="e" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604958-16746-004_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="f" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604973-14134-005_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="g" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605077-16837-011_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="h" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605011-16793-007_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="i" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605025-14166-008_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="j" modTime="2015-03-10-17:14" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605045-16804-009_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.9785477]]></Latitude>
+<Longitude><![CDATA[153.3694844]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-11-10:58" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7795979</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$599,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10</streetNumber>
+<street>Rimu Place</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[IMMACULATE FAMILY HOME ..MUST INSPECT!]]></headline>
+<description><![CDATA[This immaculately presented double storey 4 bedroom home sits on a corner elevated block, is located in a quiet street and a sought after location of Crestwood Heights Estate. The impressive property just freshly painted the inside and outside as well as replacing new carpets. Don't miss out! Walking distance to Griffith University, The Gold Coast University Hospital, shops and public transport.
+Features include:
+master bedroom ensuite and walk in robe
+further 3 good sized bedrooms with built in robes
+formal lounge and dining
+tiled living and dining area opens out to alfresco area for entertaining
+well appointed kitchen with dishwasher and good pantry space
+reverse cycle split system air conditioning and ceiling fans
+security alarm system, security screened to doors and windows
+internal access remote double lockup garage
+low maintenance yard.
+established gardens and fully fenced.
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, security</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966353-1167-001_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="a" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964200-21833-002_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="b" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964244-22007-003_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="c" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964281-22310-004_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="d" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964322-2218-005_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="e" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964359-2296-006_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="f" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964502-3091-007_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="g" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964568-3229-009_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="h" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964544-3161-008_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="i" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966388-1250-010_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="j" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966414-13322-011_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.973245]]></Latitude>
+<Longitude><![CDATA[153.371677]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-11-10:46" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7799337</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Joy Gaze</name>
+<telephone type="mobile">0412 665681</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>joy@promoran.com</email>
+</listingAgent>
+<price display="yes">475000</price>
+<priceView>From $499,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>5</streetNumber>
+<street>Sunshine Court</street>
+<suburb display="yes">LABRADOR</suburb>
+<state>QLD</state>
+<postcode>4215</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[BRAND NEW " HAMPTON" STYLE HOMES-CLOSE TO THE BROADWATER]]></headline>
+<description><![CDATA[5 Sunshine Court is a small private gated complex of just 3 stunning, high quality two storey homes, built to an exacting standard, and offering 3 beds, 2 baths, and within 100 metres to the fabulous Broadwater. Suitable for homeowners and investors these beautiful homes must be inspected to fully appreciate the craftsmanship of local builders All Elite homes. No expense has been spared and the homes offer the following:
+Broadwater views (front home only)
+3 spacious bedrooms, master with ensuite and walk in robe
+2 luxury bathrooms
+Open plan living areas with oak flooring
+Superb high quality kitchens with gas cooking, stone bench tops and breakfast bar
+Aluminium bi fold doors open onto 
+Alfresco areas with timber decking
+Private courtyards, fully fenced and landscaped
+Double garage/carport
+Each property has
+Ducted air conditioning throughout
+Solid oak flooring in all living areas
+High quality carpets to bedrooms
+Ceiling fans throughout
+Aluminium bifold doors to alfresco areas
+European appliances to kitchens
+Timber deck on alfresco
+Private landscaped courtyards-fully fenced.
+This is an exciting opportunity to purchase 1 or all of these stunning prestige townhouses in an amazing location.
+Call now for an inspection]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,BRAND NEW</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040329-11001-5Sunshine_web-1.jpg"/>
+<img id="a" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040339-16990-5Sunshine_web-4.jpg"/>
+<img id="b" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040348-17100-5Sunshine_web-6.jpg"/>
+<img id="c" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040353-17196-5Sunshine_web-8.jpg"/>
+<img id="d" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040359-17242-5Sunshine_web-12.jpg"/>
+<img id="e" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040366-17315-5Sunshine_web-14.jpg"/>
+<img id="f" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040374-17404-5Sunshine_web-15.jpg"/>
+<img id="g" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040380-17496-5Sunshine_web-19.jpg"/>
+<img id="h" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040390-17553-5Sunshine_web-22.jpg"/>
+<img id="i" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040394-17648-5Sunshine_web-23.jpg"/>
+<img id="j" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040401-17717-5Sunshine_web-25.jpg"/>
+<img id="k" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040410-17796-5Sunshine_web-26.jpg"/>
+<img id="l" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040420-11990-5Sunshine_web-27.jpg"/>
+<img id="n" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040427-12082-5Sunshine_web-29.jpg"/>
+<img id="o" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040433-18139-5Sunshine_web-32.jpg"/>
+<img id="p" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040439-12215-5Sunshine_web-33.jpg"/>
+<img id="q" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040446-12255-5Sunshine_web-34.jpg"/>
+<img id="r" modTime="2015-03-11-10:45" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426040457-12295-5Sunshine_web-35.jpg"/>
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.94862]]></Latitude>
+<Longitude><![CDATA[153.407735]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

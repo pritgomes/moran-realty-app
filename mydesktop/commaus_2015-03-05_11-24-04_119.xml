@@ -1,0 +1,581 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-05-11:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-05-10:51" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>6789986</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="yes" />
+<listingAgent id="1">
+<name>Joy Gaze</name>
+<telephone type="mobile">0412 665681</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>joy@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">450000</price>
+<priceView>Offers over $499,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>7</streetNumber>
+<street>Koolewong Parade</street>
+<suburb display="yes">ASHMORE</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[HUGE PRICE REDUCTION-UNBEATABLE VALUE IN ASHMORE]]></headline>
+<description><![CDATA[VERY MOTIVATED OWNERS HAVE REDUCED THE ORIGINAL PRICE BY OVER $100,000
+
+4/5 bedroom property set in one of Ashmore's premier locations. Offering spacious accommodation, this home is versatile and modern, and will suit the family looking for a teenage suite or separate offices to work from home.
+Master bedroom with ensuite and walk in robe
+3 further bedrooms, all with built in robes
+Family bathroom
+Separate bedroom (5)plus lounge with powder room/ offices, consulting rooms
+Huge formal lounge
+Brand new modern kitchen with appliances
+New carpets throughout
+Air conditioning
+Large covered alfresco deck area 
+Fully fenced, landscaped rear gardens with plenty of room for a pool
+Double carport 
+Electric gated entrance
+Situated in great location, this property is tremendous value in today's market
+Call now for an inspection]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>0</garages>
+<carports>2</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393950-9488-001_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="a" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393717-7403-007_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="b" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393733-7140-009_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="c" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393707-6812-006_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="d" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393669-6162-002_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="e" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393680-6384-003_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="f" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393689-5820-004_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="g" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393697-6395-005_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="h" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393975-11416-010_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="i" modTime="2015-01-27-07:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1405393963-11147-008_Open2view_ID314992-7_Koolewong_Pde.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.990711]]></Latitude>
+<Longitude><![CDATA[153.379869]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-05-10:57" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7443273</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="yes" />
+<listingAgent id="1">
+<name>Joy Gaze</name>
+<telephone type="mobile">0412 665681</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>joy@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">350000</price>
+<priceView>Offers over $350,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>12</streetNumber>
+<street>The Domain</street>
+<suburb display="yes">NERANG</suburb>
+<state>QLD</state>
+<postcode>4211</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[HUGE PRICE REDUCTION-OWNER WANTS OFFERS]]></headline>
+<description><![CDATA[High set 5 bedroom house set on over 700m2 of land, backing onto to a local reserve, and close to shops, schools and local transport.
+The home offers versatile accommodation comprising
+ First floor
+3 bedrooms, all with built in robes
+Lounge/dining
+Fitted kitchen
+Bathroom
+Large deck area
+Ground floor
+2 bedrooms
+Bathroom
+Laundry
+Single garage
+720m2 block
+Good tenants currently in place and are happy to stay on.]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,Backing onto reserve</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099416-4730-007_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="a" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099344-4626-001_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="b" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099350-4648-002_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="c" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099362-4669-003_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="d" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099386-4692-005_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="e" modTime="2014-12-17-13:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418099429-4751-011_Open2view_ID337364-12_The_Domain.jpg"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-28.007305]]></Latitude>
+<Longitude><![CDATA[153.331949]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-05-10:25" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7472760</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">400000</price>
+<priceView>$439,000 NEGO</priceView>
+
+
+
+<address display="yes">
+<streetNumber>50</streetNumber>
+<street>Sidney Nolan Drive</street>
+<suburb display="yes">COOMBABAH</suburb>
+<state>QLD</state>
+<postcode>4216</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[SPACIOUS AND GREAT LOCATION !]]></headline>
+<description><![CDATA[Situated in a sought after location, this immaculate and spacious 4 bedrooms home offers the following features :
+master ensuite, spa bath and walk thru robe
+further 3 bedrooms with built in robes
+2 separate living areas
+open plan living and dining area leading to huge insulated covered outdoor area for entertaining 
+spacious kitchen with gas cooktop and good pantry space
+reverse cycle split system air conditioning, ceiling fans and insulation
+internal access remote double lockup garage with single drive through. 
+low maintenance yard
+garden shed, water tank and garden pump.   
+Close to Harbour Town Shopping Centre, Runaway Bay Shopping Centre, parks, playgrounds, library, childcare and public transport
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, spa bath</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">460</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776689-6306-15.JPG"/>
+<img id="a" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776500-2029-4.JPG"/>
+<img id="b" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776464-1920-2.JPG"/>
+<img id="c" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776656-2571-13.JPG"/>
+<img id="d" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776673-2593-14.JPG"/>
+<img id="e" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776565-2249-8.JPG"/>
+<img id="f" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776627-6152-11.JPG"/>
+<img id="g" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776641-6163-12.JPG"/>
+<img id="h" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776597-6043-10.JPG"/>
+<img id="i" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776448-5737-1.JPG"/>
+<img id="j" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776702-6360-17.JPG"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.915981]]></Latitude>
+<Longitude><![CDATA[153.383018]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-05-11:17" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7657121</uniqueID>
+<authority value="auction" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">350000</price>
+<priceView>AUCTION</priceView>
+
+
+
+<address display="yes">
+<streetNumber>51</streetNumber>
+<street>Macquarie Avenue</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[MUST BE SOLD ON OR BEFORE AUCTION!]]></headline>
+<description><![CDATA[Situated in a highly sought after location in Molendinar, this brick and tile 4 bedroom home with a pool and large shed/workshop sits on a huge 1103m2 block and with loads of potential, it will benefit one looking to renovate or develop. Walk to Trinity Lutheran College and public transport. Short drive to Griffith University, The new Gold Coast Hospital and Ashmore City Shopping Centre. Don't miss out!
+Features include :
+4 bedrooms with built in robes
+open plan living and dining opens out to outdoor area overlooking the inground swimming pool (fully fenced).
+huge shed/workshop (size: 6x8m) 
+appointed kitchen with good pantry space
+reverse cycle split system air conditioning and ceiling fans
+solar hot water system installed
+great side access for vehicles, trailer and caravan.
+single lockup garage and plenty parking space
+garden shed and fully fenced landscaped gardens
+huge 1103m2 block.
+AUCTION ON SITE MARCH 14th UNLESS SOLD PRIOR
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>1</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,pool, large shed</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">1103</area>
+</landDetails>
+<inspectionTimes>
+<inspection>05-Mar-2015 04:00PM to 04:30PM</inspection>
+<inspection>07-Mar-2015 12:00PM to 12:30PM</inspection>
+<inspection>12-Mar-2015 04:00PM to 04:30PM</inspection>
+<inspection>14-Mar-2015 12:00PM to 12:30PM</inspection>
+</inspectionTimes>
+<auction date="2015-03-14-12:30"/>
+<images>
+<img id="m" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721093-7719-006_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="a" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423720902-4311-001_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="b" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423720990-7327-003_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="c" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821409-10299-LIVING2.jpg"/>
+<img id="d" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821395-17955-LIVING.jpg"/>
+<img id="e" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721154-7870-17117535_2.JPG"/>
+<img id="f" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423822088-10761-DINING.jpg"/>
+<img id="g" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424049564-29247-P1010041.JPG"/>
+<img id="h" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423822104-18395-dining2.jpg"/>
+<img id="i" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721124-5023-17117535_1.JPG"/>
+<img id="j" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821439-18010-SHED.JPG"/>
+<img id="k" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721031-7436-004_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.977886]]></Latitude>
+<Longitude><![CDATA[153.366034]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-05-10:34" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7681718</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">400000</price>
+<priceView>$420,000 - $445,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>406/15</streetNumber>
+<street>Compass Drive</street>
+<suburb display="yes">BIGGERA WATERS</suburb>
+<state>QLD</state>
+<postcode>4216</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[VENDOR RELOCATING, MUST BE SOLD!!]]></headline>
+<description><![CDATA[This near new and immaculate stunning 2 bedrooms plus study apartment (size:122m2) located on high floor of ZEPHYR at Harbour Quays offering excellent positions overlooking the park and the north east aspect catches the cooling breezes. Walk to Harbour Town Shopping Centre and public transport. Motivated vendor, will look at all offers. Must Inspect!
+Features include :
+master bedroom ensuite and walk thru robe
+further one large bedroom with built in robe
+study/office or bedroom 3 (currently used as kid's bedroom) 
+open plan living and dining flows onto the spacious balcony overlooking the park and sparkling lap pool
+modern functional kitchen with stainless steel appliances, new induction cooktop and good pantry space
+new block out blinds living and bedrooms
+ducted air conditioning
+one underground secure parking
+pet friendly on approval
+facilities include lap pool, gym and BBQ area
+low body corporate fee (approx. $55pw)
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking,ensuite, pool</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>07-Mar-2015 01:00PM to 01:30PM</inspection>
+<inspection>08-Mar-2015 02:00PM to 02:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307234-7675-002_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="a" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424408327-6367-010_Open2view_ID346152-406_15_Compass_Driveb.jpg"/>
+<img id="b" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307708-8996-009_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="c" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307208-7583-001_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="d" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307617-8813-005_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="e" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307593-8608-004_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="f" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307661-8872-007_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="g" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307571-8553-003_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="h" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307641-8835-006_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="i" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307682-8826-008_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-03-05-10:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424476947-11400-floorplan2.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.9277496]]></Latitude>
+<Longitude><![CDATA[153.3820949]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-05-10:48" status="sold">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7629040</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>Buyers above $560,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>3</streetNumber>
+<street>Lillywood Circuit</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[RARE 5 BEDROOM HOME IN CRESTWOOD HEIGHTS]]></headline>
+<description><![CDATA[Situated in a sought after location of crestwood heights estate, this immaculate and spacious 4 beds plus study home offering 3 separate living areas, huge outdoor covered area, remote double lockup garage and remote lockup carport.  Short walk to Griffith University, The Gold Coast University Hospital, Crestwood plaza, shops, school and public transport . Don't miss out!
+The property features include:
+master bedroom ensuite and walk in robe
+ 3 further bedrooms with built in robes
+bedroom 5 / study/office
+3 separate living areas
+spacious kitchen and good pantry space
+large open plan living and dining area opens out to huge outdoor covered area for entertaining
+ducted air conditioning throughout and insulation.
+full security alarm
+electricity solar panels installed (5KW)
+internal access remote double lockup garage plus remote double lockup carport
+water tank with pump, garden shed and fully fenced
+low maintenance yard and established garden
+inspection is recommended.
+For information or to inspect, please contact listing agent]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>4</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, security</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423268670-4049-001_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="a" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423268698-31606-002_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="b" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423269075-4159-008_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="c" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425428439-16118-004_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="d" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423268726-4060-003_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="e" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423268796-31628-005_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="f" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423269030-31683-007_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="g" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423269142-4192-010_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="h" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423268836-4082-006_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="i" modTime="2015-03-04-08:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423269107-4171-009_Open2view_ID344166-3_Lillywood_Circuit.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.970311]]></Latitude>
+<Longitude><![CDATA[153.374139]]></Longitude>
+</Geocode>
+
+<soldDetails>
+<price display="yes" plusSAV="no">560000</price>
+<date>2015-02-27-00:00:00</date>
+</soldDetails>
+
+</residential>
+</propertyList>
+   

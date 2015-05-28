@@ -1,0 +1,292 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-05-10:24:04" username="commaust" password="commaust">
+<rental modTime="2015-03-05-10:10" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>633940</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Rental Department</name>
+<telephone type="mobile">0402 030 888</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>rentals@moranrealty.com.au</email>
+</listingAgent>
+
+<dateAvailable>2015-04-12-00:00</dateAvailable>
+<rent display="yes" period="week">580</rent>
+<priceView></priceView>
+<bond>2320</bond>
+
+
+
+<address display="no">
+<streetNumber>40</streetNumber>
+<street>Stringybark Drive</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[Large family home in Crestwood heights]]></headline>
+<description><![CDATA[Beautifully presented 2 story home available for lease in Crestwood Heights. 
+Features include:
+- 4 double bedrooms + study
+- main with ensuite and wir
+- second bathroom
+- air conditioning
+- modern kitchen with gas cooktop
+- formal lounge
+- dining area off kitchen
+- double lock up garage
+- undercover outdoor entertaining area
+- located just a short distance from Griffith university, Ashmore City shopping center, schools and public transport.
+
+Call our office on 5509 0700 to arrange an inspection.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159ml1361770693.jpg"/>
+<img id="a" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159al1361770693.jpg"/>
+<img id="b" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159bl1361770693.jpg"/>
+<img id="c" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159cl1361770693.jpg"/>
+<img id="d" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159dl1361770693.jpg"/>
+<img id="e" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159el1361770693.jpg"/>
+<img id="f" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159fl1361770693.jpg"/>
+<img id="g" modTime="2015-03-05-10:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/409869159gl1361770693.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.977714]]></Latitude>
+<Longitude><![CDATA[153.366466]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2015-03-05-10:02" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>5861383</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Rental Department</name>
+<telephone type="mobile">0402 030 888</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>rentals@moranrealty.com.au</email>
+</listingAgent>
+
+<dateAvailable>2015-05-29-00:00</dateAvailable>
+<rent display="yes" period="week">490</rent>
+<priceView></priceView>
+<bond>1960</bond>
+
+
+
+<address display="no">
+<streetNumber>2</streetNumber>
+<street>Ganton Court</street>
+<suburb display="yes">PARKWOOD</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[MODERN EXECUTIVE 3 BEDROOM HOUSE WITH ALL THE I WANTS' AND A GREAT LOCATION]]></headline>
+<description><![CDATA[This immaculate 3 bedroom 2 bathroom home boasts a large open plan lounge and dining room with room for a formal dining suite and includes a split-cycle air-conditioner and tiled floor. The property also includes a quality kitchen with gas cook top, dishwasher and plenty of cupboard and bench space, 3 good sized bedrooms with built-in wardrobes, ceiling fans and the main bed also has an air-conditioner along with one of the other bedrooms. The property provides a covered outdoor area, large enclosed yard, garden shed, auto double lock up garage and has a great location with-in walking distance to the new Gold Coast Hospital, Griffith University and close to shops. Don't miss this opportunity to lease this quality property.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/31942-WebSite-11391_3GantonCourtParkwood1154547_146_852.jpg"/>
+<img id="a" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/20969-WebSite-11391_3GantonCourtParkwood1154547_146_824.jpg"/>
+<img id="b" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/21623-WebSite-11391_3GantonCourtParkwood1154547_146_806.jpg"/>
+<img id="c" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/21688-WebSite-11391_3GantonCourtParkwood1154547_146_813.jpg"/>
+<img id="d" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/18615-WebSite-11391_3GantonCourtParkwood1154547_146_816.jpg"/>
+<img id="e" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/10768-WebSite-11391_3GantonCourtParkwood1154547_146_821.jpg"/>
+<img id="f" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/1754-WebSite-11391_3GantonCourtParkwood1154547_146_834.jpg"/>
+<img id="g" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/16686-WebSite-11391_3GantonCourtParkwood1154547_146_857.jpg"/>
+<img id="h" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/8669-WebSite-11391_3GantonCourtParkwood1154547_146_827.jpg"/>
+<img id="i" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/16768-WebSite-11391_3GantonCourtParkwood1154547_146_858.jpg"/>
+<img id="j" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/21150-WebSite-11391_3GantonCourtParkwood1154547_146_838.jpg"/>
+<img id="k" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/31134-WebSite-11391_3GantonCourtParkwood1154547_146_846.jpg"/>
+<img id="l" modTime="2015-03-05-10:02" url="http://s3-ap-southeast-2.amazonaws.com/mydesktop.aunz/rwhbeen/photos/3306-WebSite-11391_3GantonCourtParkwood1154547_146_798.jpg"/>
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.951937]]></Latitude>
+<Longitude><![CDATA[153.376996]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<residential modTime="2015-03-05-09:57" status="sold">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7486150</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">695000</price>
+<priceView>$739,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>113</streetNumber>
+<street>Crestwood Drive</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[STUNNING 48 SQ HOME IN CRESTWOOD HEIGHTS]]></headline>
+<description><![CDATA[This near new and immaculately presented Double storey 5 bedroom, 3 bathroom home of over 48 squares is situated on an elevated block in the sought after location of Crestwood Heights Estate, Molendinar. Within easy walking distance to Griffith University, The Gold Coast University Hospital, public transport and Crestwood Plaza Shopping Centre.
+First floor:
+Splendid master bedroom with ensuite and walk in robe
+3 further double bedrooms all with built in robes
+Spacious rumpus room leading to large balcony with wide reaching views
+Luxury Family bathroom
+Luxury staircase with gallery landing
+Ground floor:
+Bedroom  5 with built in robe
+Formal lounge and dining
+Large open plan living and dining area leading to 
+Alfresco outdoor entertaining area (fully fenced).
+Spacious fully fitted kitchen with stainless steel appliance and good pantry space
+Second kitchen with gas cooktop and good pantry space
+3rd luxury Full bathroom
+Fully ducted air conditioning throughout 
+Security screened doors and windows.
+Full insulation including ceiling and walls
+Three car garaging with remote doors and internal access-drive through facility also
+Gated entrance with intercom
+Fully fenced gardens to front and back. Room for a pool]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>3</bathrooms>
+<garages>3</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,3 garages, 2 kitchens</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950682-22776-001_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="a" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418949528-19624-002_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="b" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950362-27220-008_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="c" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950230-26725-004_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="d" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950386-21848-009_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="e" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950309-21589-006_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="f" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418950334-21609-007_Open2view_ID338904-113_Crestwood_Drive.jpg"/>
+<img id="g" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418956525-5460-floor02.jpeg"/>
+<img id="h" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1420422490-3364-floorplanwithpool.jpg"/>
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-01-06-08:47" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418956484-5326-floor01.jpeg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.974802]]></Latitude>
+<Longitude><![CDATA[153.369037]]></Longitude>
+</Geocode>
+
+<soldDetails>
+<price display="yes" plusSAV="no">720000</price>
+<date>2015-02-23-00:00:00</date>
+</soldDetails>
+
+</residential>
+</propertyList>
+   

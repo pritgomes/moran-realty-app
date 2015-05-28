@@ -1,0 +1,191 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-12-19:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-12-18:24" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7472760</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">400000</price>
+<priceView>$429,000 plus</priceView>
+
+
+
+<address display="yes">
+<streetNumber>50</streetNumber>
+<street>Sidney Nolan Drive</street>
+<suburb display="yes">COOMBABAH</suburb>
+<state>QLD</state>
+<postcode>4216</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[SPACIOUS AND GREAT LOCATION !]]></headline>
+<description><![CDATA[Situated in a sought after location, this immaculate and spacious 4 bedrooms home offers the following features :
+master ensuite, spa bath and walk thru robe
+further 3 bedrooms with built in robes
+2 separate living areas
+open plan living and dining area leading to huge insulated covered outdoor area for entertaining 
+spacious kitchen with gas cooktop and good pantry space
+reverse cycle split system air conditioning, ceiling fans and insulation
+internal access remote double lockup garage with single drive through. 
+low maintenance yard
+garden shed, water tank and garden pump.   
+Close to Harbour Town Shopping Centre, Runaway Bay Shopping Centre, parks, playgrounds, library, childcare and public transport
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, spa bath</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">460</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776689-6306-15.JPG"/>
+<img id="a" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776500-2029-4.JPG"/>
+<img id="b" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776464-1920-2.JPG"/>
+<img id="c" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776656-2571-13.JPG"/>
+<img id="d" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776673-2593-14.JPG"/>
+<img id="e" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776565-2249-8.JPG"/>
+<img id="f" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776627-6152-11.JPG"/>
+<img id="g" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776641-6163-12.JPG"/>
+<img id="h" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776597-6043-10.JPG"/>
+<img id="i" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776448-5737-1.JPG"/>
+<img id="j" modTime="2015-02-26-12:56" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418776702-6360-17.JPG"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.915981]]></Latitude>
+<Longitude><![CDATA[153.383018]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-12-18:25" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7795979</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$599,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10</streetNumber>
+<street>Rimu Place</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[IMMACULATE FAMILY HOME ..MUST INSPECT!]]></headline>
+<description><![CDATA[This immaculately presented double storey 4 bedroom home sits on a corner elevated block, is located in a quiet street and a sought after location of Crestwood Heights Estate. The impressive property just freshly painted the inside and outside as well as replacing new carpets. Don't miss out! Walking distance to Griffith University, The Gold Coast University Hospital, shops and public transport.
+Features include:
+master bedroom ensuite and walk in robe
+further 3 good sized bedrooms with built in robes
+formal lounge and dining
+tiled living and dining area opens out to alfresco area for entertaining
+well appointed kitchen with dishwasher and good pantry space
+reverse cycle split system air conditioning and ceiling fans
+security alarm system, security screened to doors and windows
+internal access remote double lockup garage
+low maintenance yard.
+established gardens and fully fenced.
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, security</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>14-Mar-2015 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966353-1167-001_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="a" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964200-21833-002_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="b" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964244-22007-003_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="c" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964281-22310-004_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="d" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964322-2218-005_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="e" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964359-2296-006_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="f" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964502-3091-007_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="g" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964568-3229-009_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="h" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964544-3161-008_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="i" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966388-1250-010_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="j" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966414-13322-011_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.973245]]></Latitude>
+<Longitude><![CDATA[153.371677]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

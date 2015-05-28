@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-13-10:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-13-09:33" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7804284</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">400000</price>
+<priceView>$449,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>33</streetNumber>
+<street>Cathedral Ave</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[CENTRALLY LOCATED]]></headline>
+<description><![CDATA[Situated in a sought after location in Molendinar, this immaculate and spacious 4 bedrooms home is located in a quiet street and near cul-de-sac position. Close to Trinity Lutheran College, public transport, shops, Griffith University and The Gold Coast University Hospital. Don't miss out!
+This property features:
+master bedroom with ensuite and walk in robe
+further 3 bedrooms with built in robes
+formal lounge area
+open plan living and dining area opens out to huge outdoor covered area (fully fenced)
+reverse cycle split system air conditioning and ceiling insulation
+spacious kitchen with dishwasher and good pantry space
+level grass yard and established garden
+great side access and room for a pool.
+600m2 allotment
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, aircon</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">600</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135446-31006-010_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="a" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135287-30418-003_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="b" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135216-29888-001_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="c" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135384-30774-007_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="d" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135241-30070-002_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="e" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135310-30549-004_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="f" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135331-30654-005_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="g" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135359-30682-006_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="h" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135403-30827-008_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="i" modTime="2015-03-13-09:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1426135422-23885-009_Open2view_ID329859-33_Cathedral_Ave.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.971921]]></Latitude>
+<Longitude><![CDATA[153.362939]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

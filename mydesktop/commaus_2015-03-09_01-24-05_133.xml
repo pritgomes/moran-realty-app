@@ -1,0 +1,202 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-09-01:24:05" username="commaust" password="commaust">
+<residential modTime="2015-03-09-01:10" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7646276</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">650000</price>
+<priceView>$699,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>6</streetNumber>
+<street>Stringybark Drive</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[STUNNING FAMILY HOME - MUST INSPECT!]]></headline>
+<description><![CDATA[OPEN HOME: 11-11.40AM (SAT) & 12-12.40PM (SUN)
+Situated in a highly sought after location of crestwood heights estate, this near new and immaculately presented 4 bedroom plus study home with a pool is situated on a quiet cul-de-sac overlooking a park and the north facing aspect catches the cooling breezes. Don't miss out!
+This impressive property features:
+large master bedroom overlooking the pool, designer ensuite and walk in robe
+further 3 generous size bedrooms with built in robes
+office/study or bedroom 5
+3 separate formal lounge/dining, media room & family lounge
+main bathroom with spa bath and separate toilet
+designer kitchen with stone benches, skylight, stainless steel appliances and good pantry space
+media room with built in surround sound wiring
+massive alfresco area with ceiling fan overlooking the sparkling pool
+fully ducted air conditioning system and ceiling insulated
+burglar proof Crimsafe security screens allows open doors/windows 24/7
+remote control home security alarm system
+tinted glass windows and doors throughout to keep the home cool.
+water featured pool can be heated by an economic reverse cycle system 
+electricity solar panel 5KW installed (2014)
+internal access remote double lockup garage
+tastefully landscaped for low maintenance and rain water tank installed
+good side access parking for trailer, jet ski, motorbike, etc.
+large shed/workshop with 3 phase power
+approx. 6 years young
+huge 672m2 allotment
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, solar panels</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">672</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605063-14177-010_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="a" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604904-16558-001_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="b" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604926-16614-002_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="c" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604990-16782-006_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="d" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604943-16718-003_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="e" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604958-16746-004_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="f" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423604973-14134-005_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="g" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605077-16837-011_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="h" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605011-16793-007_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="i" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605025-14166-008_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="j" modTime="2015-03-05-11:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423605045-16804-009_Open2view_ID344507-6_Stringybark_Drive.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.9785477]]></Latitude>
+<Longitude><![CDATA[153.3694844]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-09-01:10" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7681718</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">400000</price>
+<priceView>AUCTION</priceView>
+
+
+
+<address display="yes">
+<streetNumber>406/15</streetNumber>
+<street>Compass Drive</street>
+<suburb display="yes">BIGGERA WATERS</suburb>
+<state>QLD</state>
+<postcode>4216</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[VENDOR RELOCATING, MUST BE SOLD!]]></headline>
+<description><![CDATA[This near new and immaculate stunning 2 bedrooms plus study apartment (size:122m2) located on high floor of ZEPHYR at Harbour Quays offering excellent positions overlooking the park and the north east aspect catches the cooling breezes. Walk to Harbour Town Shopping Centre and public transport. Motivated vendor, will look at all offers. Must Inspect!
+Features include :
+master bedroom ensuite and walk thru robe
+further one large bedroom with built in robe
+study/office or bedroom 3 (currently used as kid's bedroom) 
+open plan living and dining flows onto the spacious balcony overlooking the park and sparkling lap pool
+modern functional kitchen with stainless steel appliances, new induction cooktop and good pantry space
+new block out blinds living and bedrooms
+ducted air conditioning
+one underground secure parking
+pet friendly on approval
+facilities include lap pool, gym and BBQ area
+low body corporate fee (approx. $55pw)
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking,ensuite, pool</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424408327-6367-010_Open2view_ID346152-406_15_Compass_Driveb.jpg"/>
+<img id="a" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307234-7675-002_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="b" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307708-8996-009_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="c" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307208-7583-001_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="d" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307617-8813-005_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="e" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307593-8608-004_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="f" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307661-8872-007_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="g" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307571-8553-003_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="h" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307641-8835-006_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="i" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424307682-8826-008_Open2view_ID346152-406_15_Compass_Drive.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-03-07-14:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424476947-11400-floorplan2.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.9277496]]></Latitude>
+<Longitude><![CDATA[153.3820949]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

@@ -1,0 +1,52 @@
+	<div class="parallax" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h1 class="section-title" data-animation-direction="from-bottom" data-animation-delay="50">Available Properties</h1>
+
+					<div id="new-properties-slider" class="owl-carousal carousel-style1">
+
+						{{#each this}}
+
+						<div class="item" data-animation-direction="from-bottom" data-animation-delay="250">
+							<div class="image">
+								<a href=property-detail.html?id={{this.uniqueID}} class="info">
+									<h3>{{this.headline}}</h3>
+									<span class="location">
+										{{this.address.streetNumber}}&nbsp;{{this.address.street}} <br>
+										{{this.address.suburb}}&nbsp;{{this.address.state}}&nbsp;{{this.address.postcode}}
+									</span>
+								</a>
+								{{#each this.images}}
+									<img width="400" height="250" src={{image this.[0]}} alt="property image" />
+								{{/each}}	
+							</div>
+							<div class="price">
+
+							{{#if rent}}
+								<i class="fa fa-home"></i>For Rent
+								<span>${{this.rent}}</span>
+							{{/if}}
+
+							{{#if priceView}}
+								<i class="fa fa-home"></i>For Sale
+								<span>{{this.priceView}}</span>
+							{{/if}}
+									
+							</div>
+							<ul class="amenities">
+								<li><i class="icon-bedrooms"></i> {{this.features.bedrooms}}</li>
+								<li><i class="icon-bathrooms"></i> {{this.features.bathrooms}}</li>
+								<li><i class="icon-garage"></i> {{this.features.garages}}</li>
+								<li><i class="icon-pool"></i> {{this.features.pool}}</li>
+							</ul>
+						</div>
+
+						{{/each}}
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>

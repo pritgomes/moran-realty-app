@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-13-01:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-13-01:10" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7657121</uniqueID>
+<authority value="auction" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">350000</price>
+<priceView>AUCTION</priceView>
+
+
+
+<address display="yes">
+<streetNumber>51</streetNumber>
+<street>Macquarie Avenue</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[MUST BE SOLD ON OR BEFORE AUCTION!]]></headline>
+<description><![CDATA[Situated in a highly sought after location in Molendinar, this brick and tile 4 bedroom home with a pool and large shed/workshop sits on a huge 1103m2 block and with loads of potential, it will benefit one looking to renovate or develop. Walk to Trinity Lutheran College and public transport. Short drive to Griffith University, The new Gold Coast Hospital and Ashmore City Shopping Centre. Don't miss out!
+Features include :
+4 bedrooms with built in robes
+open plan living and dining opens out to outdoor area overlooking the inground swimming pool (fully fenced).
+huge shed/workshop (size: 7x10m) 
+appointed kitchen with good pantry space
+reverse cycle split system air conditioning and ceiling fans
+solar hot water system installed
+great side access for vehicles, trailer and caravan.
+single lockup garage and plenty parking space
+garden shed and fully fenced landscaped gardens
+huge 1103m2 block.
+AUCTION ON SITE MARCH 14th UNLESS SOLD PRIOR
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>1</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,pool, large shed</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">1103</area>
+</landDetails>
+<inspectionTimes>
+<inspection>14-Mar-2015 12:00PM to 12:30PM</inspection>
+</inspectionTimes>
+<auction date="2015-03-14-12:30"/>
+<images>
+<img id="m" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721093-7719-006_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="a" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423720902-4311-001_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="b" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423720990-7327-003_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="c" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821409-10299-LIVING2.jpg"/>
+<img id="d" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821395-17955-LIVING.jpg"/>
+<img id="e" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721154-7870-17117535_2.JPG"/>
+<img id="f" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423822088-10761-DINING.jpg"/>
+<img id="g" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424049564-29247-P1010041.JPG"/>
+<img id="h" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423822104-18395-dining2.jpg"/>
+<img id="i" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721124-5023-17117535_1.JPG"/>
+<img id="j" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423821439-18010-SHED.JPG"/>
+<img id="k" modTime="2015-02-16-09:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423721031-7436-004_Open2view_ID344938-51_Maquarie_Ave.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.977886]]></Latitude>
+<Longitude><![CDATA[153.366034]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

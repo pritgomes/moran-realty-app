@@ -1,0 +1,205 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-12-13:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-12-12:35" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7445589</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">450000</price>
+<priceView>Offers Invited.</priceView>
+
+
+
+<address display="yes">
+<streetNumber>1/143</streetNumber>
+<street>Cotlew Street</street>
+<suburb display="yes">ASHMORE</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[GREAT LOCATION ..MUST INSPECT!]]></headline>
+<description><![CDATA[Located directly opposite Ashmore Shopping Plaza and with all essential amenities right at your doorstep, this spacious 4 bedrooms plus study home with tennis court on 986m2 block is situated in a well maintained and security gated complex of only 5 free standing home. This lovely property would ideally suit a large family and benefit one looking to do some renovation. Don't miss out !
+Features include:
+Upstair :
+master bedroom ensuite, spa bath and walk in robe
+further 2 bedrooms with built in robes
+study nook
+Full bathroom
+
+Downstair :
+carpeted formal lounge
+bedroom 4 
+separate study/office
+tiled open plan living opens out to outdoor covered area overlooking the tennis court
+spacious kitchen with dishwasher and pantry space
+stair lifts for disabled and elderly (optional - can be removed)
+
+security alarm system 
+reverse cycle split system air-conditioning, ceiling fans and insulation
+internal access remote double lockup garage
+spacious backyard and fully fenced 
+tennis court, pool and BBQ area
+low body corporate fee
+
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, pool, spa</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">986</area>
+</landDetails>
+<inspectionTimes>
+<inspection>14-Mar-2015 09:00AM to 09:40AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418176906-8846-011_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="a" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418268797-19765-021_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="b" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418176843-8563-001_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="c" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418176876-8740-010_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="d" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177004-7806-013_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="e" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177033-9305-014_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="f" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177199-8235-020_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="g" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177060-7883-015_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="h" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177085-9361-016_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="i" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177145-8064-018_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="j" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177175-8190-019_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="k" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177120-8006-017_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="l" modTime="2015-02-15-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1418177848-9539-012_Open2view_ID337556-1_143_Cotlew_Street.jpg"/>
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.986014]]></Latitude>
+<Longitude><![CDATA[153.385092]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2015-03-12-12:36" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7795979</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$599,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10</streetNumber>
+<street>Rimu Place</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[IMMACULATE FAMILY HOME ..MUST INSPECT!]]></headline>
+<description><![CDATA[This immaculately presented double storey 4 bedroom home sits on a corner elevated block, is located in a quiet street and a sought after location of Crestwood Heights Estate. The impressive property just freshly painted the inside and outside as well as replacing new carpets. Don't miss out! Walking distance to Griffith University, The Gold Coast University Hospital, shops and public transport.
+Features include:
+master bedroom ensuite and walk in robe
+further 3 good sized bedrooms with built in robes
+formal lounge and dining
+tiled living and dining area opens out to alfresco area for entertaining
+well appointed kitchen with dishwasher and good pantry space
+reverse cycle split system air conditioning and ceiling fans
+security alarm system, security screened to doors and windows
+internal access remote double lockup garage
+low maintenance yard.
+established gardens and fully fenced.
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, security</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>14-Mar-2015 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966353-1167-001_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="a" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964200-21833-002_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="b" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964244-22007-003_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="c" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964281-22310-004_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="d" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964322-2218-005_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="e" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964359-2296-006_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="f" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964502-3091-007_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="g" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964568-3229-009_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="h" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425964544-3161-008_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="i" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966388-1250-010_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="j" modTime="2015-03-10-13:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1425966414-13322-011_Open2view_ID348806-10_Rimu_Place.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.973245]]></Latitude>
+<Longitude><![CDATA[153.371677]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

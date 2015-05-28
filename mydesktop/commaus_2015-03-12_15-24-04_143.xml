@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-12-15:24:04" username="commaust" password="commaust">
+<rental modTime="2015-03-12-14:39" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7672780</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Rental Department</name>
+<telephone type="mobile">0402 030 888</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>rentals@promoran.com</email>
+</listingAgent>
+
+<dateAvailable>2015-02-23-00:00</dateAvailable>
+<rent display="yes" period="week">695</rent>
+<priceView></priceView>
+<bond>2780</bond>
+
+
+
+<address display="no">
+<streetNumber>193</streetNumber>
+<street>Crestwood Drive</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[STUNNING FORMER SHOW HOME IN CRESTWOOD HEIGHTS]]></headline>
+<description><![CDATA[Beautifully presented, 4 bedroom, 3 bathroom former display home by Clarendon (Edgewater design) offering spacious living in one of the Gold Coast's most sought after areas. Walk to Griffiths University and the new Gold Coast Hospital. Only minutes to M1 Motorway.
+Built to an exacting standard this home is in immaculate condition.
+First floor- accessed by an elegant double staircase with gallery landing
+Master bedroom with exquisite ensuite offering both shower and bath plus twin vanities, and walk in robe. The master suite also has its own balcony.
+3 further double bedrooms, all with built in robes
+Luxury family bathroom also with shower and bath
+Parents retreat
+
+Ground Floor
+Formal lounge with ornate plasterwork and carpeted flooring
+Formal dining
+Very spacious office/study with built in cupboards
+Bathroom 3
+Modern kitchen with appliances
+Spacious family room overlooking the garden
+Other features include
+Designer window dressings 
+Ducted air conditioning throughout
+Security system
+Crimsafe windows and doors
+Intercom system throughout property
+Garden shed plus cubby
+Irrigation system plus water tank
+Fully insulated including walls]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>3</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,Ducted air</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137167-17114-001_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="a" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137184-17156-003_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="b" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137176-17144-002_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="c" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137194-17211-004_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="d" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137203-17243-005_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="e" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137214-23964-006_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="f" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137222-23990-007_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="g" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137232-24055-008_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="h" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137239-17387-009_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="i" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137250-17425-010_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="j" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137258-24220-011_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="k" modTime="2015-03-12-14:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1424137267-17447-012_Open2view_ID333170-193_Crestwood_Drive.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.972498]]></Latitude>
+<Longitude><![CDATA[153.37151]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-10-13:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-10-12:37" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7662744</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@promoran.com</email>
+</listingAgent>
+<price display="yes">590000</price>
+<priceView>$629,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>16</streetNumber>
+<street>Oakridge Place</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[SPACIOUS HOME, GREAT LOCATION]]></headline>
+<description><![CDATA[This immaculate and spacious double storey 4 bedroom plus study home is located in a quiet street of Crestwood Heights Estate and is within walking distance to Griffith University, The Gold Coast University Hospital, shops and public transport. Don't miss out!
+The property features :
+master bedroom ensuite and walk in robe
+further 3 good sized bedrooms with built in robes
+study or bedroom 5 (downstair)
+formal lounge and dining room
+tiled open plan living and dining opens out to huge alfresco area for entertaining
+appointed kitchen with stainless steel appliances and good pantry space
+reverse cycle split system air conditioning, quality ceiling fans 
+full security alarm, security screened to doors and windows
+internal access remote double lockup garage
+low maintenance yard and established gardens
+good side access and garden shed
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,ensuite, aircon</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874089-24985-001_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="a" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874118-17360-002_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="b" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874201-25020-004_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="c" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874161-24996-003_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="d" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874448-17531-009_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="e" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874248-17476-005_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="f" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874364-17509-007_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="g" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874396-17520-008_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="h" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874315-17498-006_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="i" modTime="2015-02-15-05:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423874495-17542-010_Open2view_ID345324-16_Oakridge_Place.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.972403]]></Latitude>
+<Longitude><![CDATA[153.370357]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

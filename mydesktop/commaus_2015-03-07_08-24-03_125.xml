@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-07-08:24:03" username="commaust" password="commaust">
+<residential modTime="2015-03-07-08:20" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7434533</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">500000</price>
+<priceView>$539,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>14</streetNumber>
+<street>Highview Place</street>
+<suburb display="yes">PARKWOOD</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[Executive Residence in Parkwood]]></headline>
+<description><![CDATA[Situated in an elevated position in one of the finest streets in Parkwood, this stunning 4 bedroom property is offered for sale at a very realistic price. Views across to Stradbroke Island from this elevated position are only one of the highlights of the first class home. The property offers the following:
+Master bedroom with ensuite bathroom, including corner bath and shower, and walk in robe
+3 Further double bedrooms, all with built in robes
+Family bathroom
+Spacious formal lounge
+Modern kitchen with appliances
+Open plan family room leading onto
+Undercover alfresco area
+Air conditioning and ceiling fans
+Landscaped gardens
+Remote double lockup garage
+Large 745m2 block]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,Large block, ensuite</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">745</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.951277]]></Latitude>
+<Longitude><![CDATA[153.350091]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

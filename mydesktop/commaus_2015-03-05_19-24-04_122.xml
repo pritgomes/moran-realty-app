@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-05-19:24:04" username="commaust" password="commaust">
+<residential modTime="2015-03-05-18:54" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7613090</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Anthony Teo</name>
+<telephone type="mobile">0404 124284</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>anthony@moranrealty.com.au</email>
+</listingAgent>
+<price display="yes">360000</price>
+<priceView>$399,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>17</streetNumber>
+<street>Gidgee Court</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[HOME SWEET HOME]]></headline>
+<description><![CDATA[This well presented and renovated 3 bedrooms home is positioned on a quiet street and Cul de Sal location in Molendinar. Close to Griffith University, The Gold Coast University Hospital, public transport, parks and shops. Must inspect. 
+Features include :
+3 bedrooms with built in robes
+polished timber flooring open plan living, dining, hallway and bedrooms
+appointed kitchen with pantry space
+security screened to doors and windows
+reverse cycle split system air conditioning and insulation
+huge insulated outdoor covered area for entertaining
+huge single lockup carport and lockup storage space 
+good side access and cubby house/storage
+plenty of parking space
+low maintenance garden
+For information or to inspect, please contact listing agent.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,aircon, security</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">600</area>
+</landDetails>
+<inspectionTimes>
+<inspection>07-Mar-2015 10:15AM to 10:45AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945187-15642-003_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="a" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945115-10056-001_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="b" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945321-10666-008_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="c" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945348-10725-009_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="d" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945374-15894-010_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="e" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945397-15918-011_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="f" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945212-10345-004_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="g" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945243-10444-005_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="h" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945274-10560-006_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="i" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945298-15747-007_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="j" modTime="2015-03-05-08:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1422945748-11789-002_Open2view_ID343365-17_Gidgee_Court.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.979064]]></Latitude>
+<Longitude><![CDATA[153.372888]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

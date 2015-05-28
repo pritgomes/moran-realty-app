@@ -1,0 +1,29 @@
+
+	{{#each this}}
+	
+	<div class="item col-xs-12 col-sm-6 col-md-4">
+		<div class="image">
+			<a href=property-detail.html?id={{this.uniqueID}}>
+				<h3>{{this.headline}}</h3>
+				<span class="location">
+					{{this.address.streetNumber}}&nbsp;{{this.address.street}} <br>
+					{{this.address.suburb}}&nbsp;{{this.address.state}}&nbsp;{{this.address.postcode}}
+				</span>
+			</a>
+			{{#each this.images}}
+				<img height="300" src={{image this.[0]}} alt="property image" />
+			{{/each}}
+		</div>
+		<div class="price">
+			<i class="fa fa-home"></i>For Sale 
+			<span>{{this.priceView}}</span>
+		</div>
+		<ul class="amenities">
+			<li><i class="icon-bedrooms"></i> {{this.features.bedrooms}}</li>
+			<li><i class="icon-bathrooms"></i> {{this.features.bathrooms}}</li>
+			<li><i class="icon-garage"></i> {{this.features.garages}}</li>
+			<li><i class="icon-pool"></i> {{this.features.pool}}</li>
+		</ul>
+	</div>
+
+	{{/each}}

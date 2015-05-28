@@ -1,0 +1,156 @@
+{{#each this}}
+
+{{#if-equal uniqueID}}
+
+<div class="row">
+<div class="main col-sm-12">
+
+<h1 class="property-title">{{this.headline}}</h1>
+
+<div class="property-topinfo">
+	<ul class="amenities">
+		<li><i class="icon-bedrooms"></i> {{this.features.bedrooms}}</li>
+		<li><i class="icon-bathrooms"></i> {{this.features.bathrooms}}</li>
+		<li><i class="icon-garage"></i> {{this.features.garages}}</li>
+		<li><i class="icon-pool"></i> {{this.features.pool}}</li>
+		<li><i class="icon-find-property"></i> 
+			{{this.address.streetNumber}}&nbsp;{{this.address.street}}&nbsp;{{this.address.suburb}}&nbsp;{{this.address.state}}&nbsp;{{this.address.postcode}}
+		</li>
+	</ul>
+
+	<div id="property-id">ID: {{this.uniqueID}}</div>
+</div>
+
+<!-- BEGIN PROPERTY DETAIL SLIDERS WRAPPER -->
+<div id="property-detail-wrapper" class="style1">
+
+	{{#if-check-sold this.status}}
+	<div class="price">
+		<i class="fa fa-home"></i>Sold For
+		<span>${{this.soldDetails.price}}</span>
+	</div>
+	{{/if-check-sold}}
+
+
+	{{#if-check-current this.status}}
+	<div class="price">
+		{{#if rent}}
+			<i class="fa fa-home"></i>For Rent
+			<span>${{this.rent}} per week</span>
+			<span>${{this.bond}} bond</span>
+		{{/if}}
+
+		{{#if priceView}}
+			<i class="fa fa-home"></i>For Sale
+			<span>{{this.priceView}}</span>
+		{{/if}}
+	</div>
+	{{/if-check-current}}
+
+	<!-- BEGIN PROPERTY DETAIL LARGE IMAGE SLIDER -->
+	<div id="property-detail-large" class="owl-carousel">
+		{{#each this.images.img}}
+			<div class="item">
+				<img height="600" src={{this.url}} alt="property image" />
+			</div>	
+		{{/each}}
+		</div>
+	</div>
+	<!-- END PROPERTY DETAIL LARGE IMAGE SLIDER -->
+
+	<!-- BEGIN PROPERTY DETAIL THUMBNAILS SLIDER -->
+	<div id="property-detail-thumbs" class="owl-carousel">
+		{{#each this.images.img}}
+			<div class="item">
+				<img height="300" src={{this.url}} alt="property image" />
+			</div>	
+		{{/each}}
+	</div>
+	<!-- END PROPERTY DETAIL THUMBNAILS SLIDER -->
+
+	<p>{{this.description}}</p>
+
+</div>
+
+
+
+
+<h1 class="section-title">Property Features</h1>
+<!-- BEGIN PROPERTY FEATURES LIST -->
+<ul class="property-features col-sm-6">
+	<li><i class="icon-bedrooms"></i> {{this.features.bedrooms}} Bedrooms</li>
+	<li><i class="icon-bathrooms"></i> {{this.features.bathrooms}} Bathrooms</li>
+	<li><i class="icon-garage"></i> {{this.features.garages}} Garages</li>
+	<li><i class="icon-garage"></i> {{this.features.carports}} Carports</li>
+	{{#if-equal-features this.features.alarmSystem}}
+		<li><i class="icon-security"></i> Security System Installed</li>
+	{{/if-equal-features}}	
+</ul>
+
+<ul class="property-features col-sm-6">
+	{{#if-check-current this.status}}
+	<li> 
+		{{#if rent}}
+		<i class="icon-rent-sign"></i>
+			This property is for rent. Available from {{this.dateAvailable}}
+		{{/if}}
+
+		{{#if priceView}}
+		<i class="icon-sale-sign"></i>
+			This property is for sale
+		{{/if}}
+	</li>
+	{{/if-check-current}}
+
+	{{#if-check-sold this.status}}
+	<li><i class="icon-sold-sign"></i> 
+		This property has been sold 
+	</li>
+	{{/if-check-sold}}
+
+
+
+	{{#if-equal-features this.features.pool}}
+		<li><i class="icon-pool"></i> Outdoor Pool</li>
+	{{/if-equal-features}}
+	{{#if-equal-features this.features.airConditioning}}
+		<li><i class="icon-rooms"></i> Air Conditioning</li>
+	{{/if-equal-features}}
+	<li><i class="icon-house"></i> Other Features - {{this.features.otherFeatures}}</li>	
+</ul>
+<!-- END PROPERTY FEATURES LIST -->
+
+
+<h1 class="section-title">Property Location</h1>
+<!-- PROPERTY MAP HOLDER -->
+<div id="property_location" class="map col-sm-12">
+	<iframe src=https://www.google.com/maps/embed/v1/place?&q={{this.Geocode.Latitude}}+{{this.Geocode.Longitude}}&zoom=18&key=AIzaSyCVemzl1kmBziHJBq7O1F13q6NxJVuVj90 height="350" frameborder="0" style="border:0"></iframe>
+</div>
+
+
+<h1 class="section-title">Agent Information</h1>
+<!-- BEING AGENT INFORMATION -->
+<div class="property-agent-info">
+	<div class="agent-detail col-md-3"></div>
+	<div class="agent-detail col-md-6">
+
+		<div class="info">
+			<header>
+				<h2>{{this.listingAgent.name}}</h2>
+			</header>
+
+			<ul class="contact-us">
+				<li><i class="fa fa-envelope"></i><a href=mailto:{{#changeEmailDomain this.listingAgent.email}}{{/changeEmailDomain}}> {{#changeEmailDomain this.listingAgent.email}}{{/changeEmailDomain}}</a></li>
+				<li><i class="fa fa-phone"></i> {{this.listingAgent.telephone}}</li>
+			</ul>
+		</div>
+	</div>
+	<div class="agent-detail col-md-3"></div>
+</div>
+
+</div>
+</div>
+
+{{/if-equal}}
+{{/each}}
+

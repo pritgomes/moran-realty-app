@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-03-10-15:24:03" username="commaust" password="commaust">
+<residential modTime="2015-03-10-14:26" status="current">
+<agentID>23203</agentID>
+<clientID>rwhbeen</clientID>
+<uniqueID>7629776</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Joy Gaze</name>
+<telephone type="mobile">0412 665681</telephone>
+<telephone type="BH">07 5509 0700</telephone>
+<email>joy@promoran.com</email>
+</listingAgent>
+<price display="yes">600000</price>
+<priceView>$649,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>2</streetNumber>
+<street>Redgum Place</street>
+<suburb display="yes">MOLENDINAR</suburb>
+<state>QLD</state>
+<postcode>4214</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[IMMACULATE HOME IN CRESTWOOD HEIGHTS]]></headline>
+<description><![CDATA[A beautifully presented 2 storey home offering 5 bedrooms, 3 bathrooms and inground pool, and all within walking distance to Griffiths University, the Gold Coast University Hospital and Crestwood Plaza Shopping Centre.
+This stunning home presents as new and offers the following:
+
+First floor
+Master bedroom with ensuite and walk in robe
+3 further double bedrooms, all with built in robes 
+Family bathroom
+
+Ground floor
+Bedroom 5
+Bathroom 3
+Formal lounge and dining room with vaulted ceiling
+Modern fitted kitchen with appliances
+Spacious family room leading onto
+Undercover alfresco area
+Ducted air conditioning and ceiling fans throughout
+Security grills on doors and downstairs windows
+Tropical inground salt water swimming pool with rock waterfall and seating area, perfect for entertaining
+Ducted air conditioning throughout
+Double garage
+Fully fenced rear gardens offering full privacy
+
+Interior inspection is highly recommended to fully appreciate what is on offer.
+$649,000]]></description>
+<features>
+<bedrooms>5</bedrooms>
+<bathrooms>3</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>1</pool>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden,Great views, 5 beds</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>14-Mar-2015 01:00PM to 02:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274266-2687-2REDGUM_002.JPG"/>
+<img id="a" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274645-8334-2REDGUM_023.jpg"/>
+<img id="b" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274335-8029-2REDGUM_009.JPG"/>
+<img id="c" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274275-7974-2REDGUM_003.JPG"/>
+<img id="d" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274284-7995-2REDGUM_004.JPG"/>
+<img id="e" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274293-2731-2REDGUM_005.JPG"/>
+<img id="f" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274315-2753-2REDGUM_007.JPG"/>
+<img id="g" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274325-8017-2REDGUM_008.JPG"/>
+<img id="h" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274353-8050-2REDGUM_011.JPG"/>
+<img id="i" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274422-2964-2REDGUM_019.JPG"/>
+<img id="j" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274414-8127-2REDGUM_018.JPG"/>
+<img id="k" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274361-2813-2REDGUM_012.JPG"/>
+<img id="l" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274369-8061-2REDGUM_013.JPG"/>
+<img id="n" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274380-8072-2REDGUM_014.jpg"/>
+<img id="o" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274389-8084-2REDGUM_015.jpg"/>
+<img id="p" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274345-2788-2REDGUM_010.jpg"/>
+<img id="q" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274405-8116-2REDGUM_017.JPG"/>
+<img id="r" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274448-2997-2REDGUM_025.JPG"/>
+<img id="s" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274655-3077-2REDGUM_024.JPG"/>
+<img id="t" modTime="2015-02-07-10:09" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/rwhbeen/photos/1423274252-7962-2REDGUM_001.jpg"/>
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-27.972393]]></Latitude>
+<Longitude><![CDATA[153.368265]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   
